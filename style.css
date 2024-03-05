@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght,BNCE,SPAC@0,300..800,-35,6.9;1,300..800,-35,6.9&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anta&family=Shantell+Sans:ital,wght,BNCE,SPAC@0,300..800,-35,6.9;1,300..800,-35,6.9&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #a28069;
+} 
+.container {
+  width: 88vw;
+  margin: 2.5em auto;
+  border: 7px solid #3a322b;
+}
+.myshadow {
+  -webkit-box-shadow: 2px 2px 17px 1px rgba(186, 31, 17, 0.73);
+  box-shadow: 4px 4px 17px 1px rgba(79, 52, 161, 0.73);
+}
+.section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 3px auto;
+  width: 100%;
+}
+.section img {
+  border: 4px dashed #7f6341;
+}
+.section p {
+  margin: 5% 7%;
+  font-size: 25px;
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 0.20em;
+  line-height: 2.4rem;
+  text-decoration: forestgreen;
+}
+.article {
+  width: 75%;
+  margin: 2rem auto;
+}
+.article p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 24px;
+  text-align: justify;
+  word-spacing: 5px;
+  letter-spacing: 6px;
+  line-height: 33px;
+}
+.birincib {
+  color: #f3e4eb;
+  font-size: 51px;
+  font-family: "Shantell Sans", cursive;
+  text-decoration: underline;
+  text-align: center;
+  text-decoration-color: rgb(199, 78, 78);
+  text-shadow: 4px 4px 47px rgba(255, 16, 16, 0.75),
+    4px 4px 47px rgba(189, 28, 28, 0.75);
+}
+.section .leonardo {
+  color: white;
+  font-size: 34px;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+}
+.section .mytopimg {
+  margin: 2rem auto 1rem;
+  width: 30vw;
+  height: 75vh;
+}
+.vtadam{
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  color: white;
+  font-size: 32px;
+  font-family: "Titillium Web", sans-serif;
+  text-shadow: 4px 4px 15px rgba(255, 16, 16, 0.65);
+}
+.sonAxsamYemeyi {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  color: white;
+  font-size: 32px;
+  font-family: "Titillium Web", sans-serif;
+  text-shadow: 4px 4px 15px rgba(255, 16, 16, 0.65);
+}
+.monalis {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  color: white;
+  font-size: 32px;
+  font-family: "Titillium Web", sans-serif;
+  text-shadow: 4px 4px 15px rgba(255, 16, 16, 0.65);
+}
+.mybottomimg {
+  width: 65vw;
+  margin: 3rem auto 1rem;
+}
+.ikincibasliq {
+  color: #eb0c0c;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 45px;
+  letter-spacing: 6px;
+  margin: 3rem auto 1rem;
+  text-align: center;
+  text-shadow: 4px 4px 11px rgba(50, 44, 44, 0.945);
+}
+.mybottomsection > p {
+  margin: 1.5rem 5rem 4rem 5rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 28px;
+  text-align: justify;
+  word-spacing: 3px;
+  letter-spacing: 3px;
+  line-height: 2rem;
+}
+.son axsam yemeyi{
+  color: rgb(187, 131, 131);
+  font-size: 32px;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 800;
+}
+.son {
+  color: #b31010;
+  text-decoration: line-through;
+  text-decoration-color: black;
+}
